@@ -1,6 +1,6 @@
 # Instructions to Run
 
-0. clone the repo [git clone https://github.com/benbasuni1/app-ameco]
+0. clone the repo -- git clone https://github.com/benbasuni1/app-ameco
 1. npm install
 2. npm start
 3. Enjoy!
