@@ -4,9 +4,8 @@
 2. npm start
 3. Enjoy!
 
+# Main Page
+# <img src="readme-pictures/main-page.png"> 
 
-# Pictures
----
-![Main Page](readme-pictures/main-page)
-![Modal](readme-pictures/modal)
-
+# Modal
+# <img src="readme-pictures/modal.png"> 
